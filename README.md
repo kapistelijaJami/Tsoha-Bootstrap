@@ -3,7 +3,7 @@
 
 Yleisiä linkkejä:
 
-* [Linkki sovellukseeni](https://lehtjami.cs.helsinki.fi/tsoha)
+* [Linkki sovellukseeni](https://lehtjami.users.cs.helsinki.fi/tsoha)
 * [Linkki dokumentaatiooni](https://www.github.com)
 
 ## Työn aihe
