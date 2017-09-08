@@ -8,5 +8,5 @@ Yleisiä linkkejä:
 
 ## Keskustelufoorumi
 
-Keskustelufoorumilla voi keskustella muiden käyttäjien kanssa. Sivustoon voi rekisteröityä myöhemmin kirjautua sisään.
+Keskustelufoorumilla voi keskustella muiden käyttäjien kanssa. Sivustoon voi rekisteröityä ja myöhemmin kirjautua sisään.
 (En ole vielä täysin varma pidänkö tämän aiheen. Muutan ensi viikoksi, jos niin päätän)
