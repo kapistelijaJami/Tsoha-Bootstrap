@@ -5,6 +5,8 @@ Yleisiä linkkejä:
 
 * [Linkki sovellukseeni](https://lehtjami.users.cs.helsinki.fi/tsoha)
 * [Linkki dokumentaatiooni](https://github.com/kapistelijaJami/Tsoha-Bootstrap/blob/master/doc/dokumentaatio.pdf)
+* [Linkki kirjautumissivuun](https://github.com/kapistelijaJami/Tsoha-Bootstrap/blob/master/app/views/login.html)
+* [Linkki rekisteröitymissivuun](https://github.com/kapistelijaJami/Tsoha-Bootstrap/blob/master/app/views/register.html)
 
 ## Muistilista
 
