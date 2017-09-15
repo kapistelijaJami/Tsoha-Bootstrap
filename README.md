@@ -6,7 +6,8 @@ Yleisiä linkkejä:
 * [Linkki sovellukseeni](https://lehtjami.users.cs.helsinki.fi/tsoha)
 * [Linkki dokumentaatiooni](https://github.com/kapistelijaJami/Tsoha-Bootstrap/blob/master/doc/dokumentaatio.pdf)
 
-## Keskustelufoorumi
+## Muistilista
 
-Keskustelufoorumilla voi keskustella muiden käyttäjien kanssa. Sivustoon voi rekisteröityä ja myöhemmin kirjautua sisään.
-(En ole vielä täysin varma pidänkö tämän aiheen. Muutan ensi viikoksi, jos niin päätän)
+Muistilistaan voi lisätä askareita, antaa niille tärkeysasteen ja luokan, sekä mahdollisesti deadline -päivämäärän. Näitä voi päivittää ja poistaa, sekä ne näytetään tärkeysjärjestyksessä. Sivustoon voi rekisteröityä ja kirjautua.
+
+(Otin tämän aiheen keskustelufoorumin sijaan, koska en saanut selvää kuvaa siitä minkälaisen foorumista haluan tehdä, tämän takia dokumentaatio on vielä päivittämättä. Yritän päivittää kaikki dokumentaatiot viikonlopun aikana)
