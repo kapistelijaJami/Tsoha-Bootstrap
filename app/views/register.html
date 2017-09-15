@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="" method="post">
+    <style>
+    li {
+            margin-left: 30px;
+    }
+    </style>
+    <ul style="list-style: none;">
+        <li>Käyttäjänimi:</li>
+        <li><input type="text" name="username" autocomplete="off" required></li>
+
+        <li>Salasana:</li>
+        <li><input type="password" name="password" autocomplete="off" required></li>
+
+        <li>Vahvista salasana:</li>
+        <li><input type="password" name="password_again" autocomplete="off" required></li>
+
+        <li><input type="submit" value="Rekisteröidy" style="margin-top: 5px; margin-left: 38px; width: 90px; height: 27px; font-size: 15px; padding: 3px; cursor: pointer;"></li>
+        <li style="margin-top: 10px;"><a href="/tsoha" style="margin-left: 38px;">Kirjautuminen</a></li>
+    </ul>
+</form>
+{% endblock %}

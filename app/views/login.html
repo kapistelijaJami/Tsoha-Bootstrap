@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="" method="post">
+    <style>
+    li {
+            margin-left: 30px;
+    }
+    </style>
+    <ul style="list-style: none;">
+        <li>Käyttäjänimi:</li>
+        <li><input type="text" name="username"></li>
+
+        <li>Salasana:</li>
+        <li><input type="password" name="password"></li>
+        <li><input type="submit" value="Kirjaudu" style="margin-top: 5px; margin-left: 50px; width: 65px; height: 27px; font-size: 15px; padding: 3px; cursor: pointer;"></li>
+        <li style="margin-top: 10px;"><a href="register" style="margin-left: 25px;">Rekisteröityminen</a></li>
+    </ul>
+</form>
+{% endblock %}
